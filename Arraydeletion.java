@@ -1,3 +1,5 @@
+package datastructure;
+
 import java.util.Scanner;
 public class Arraydeletion {
 
@@ -10,7 +12,7 @@ public class Arraydeletion {
 		
 		//int size=5;
 		int[] arr=new int[5];
-		System.out.println("enter the array element ");
+		System.out.println("enter 5 the array element ");
 		
 		for(int i=0;i<arr.length;i++)
 		{
