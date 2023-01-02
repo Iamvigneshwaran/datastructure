@@ -11,7 +11,13 @@ public class Fibonacciseries {
 		// TODO Auto-generated method stub
 
 		Scanner sc=new Scanner(System.in);
-		int f=0,s=1,t,count;
+		int f,s,t,count;
+		
+		System.out.println("Enter first no of fibo");
+		f=sc.nextInt();
+		
+		System.out.println("Enter second no of fibo");
+		s=sc.nextInt();
 		
 		System.out.println("enter count of fibonacci:");
 		count=sc.nextInt();
