@@ -13,10 +13,10 @@ public class Fibonacciseries {
 		Scanner sc=new Scanner(System.in);
 		int f,s,t,count;
 		
-		System.out.println("Enter first no of fibo");
+		System.out.println("Enter first no of fibo:");
 		f=sc.nextInt();
 		
-		System.out.println("Enter second no of fibo");
+		System.out.println("Enter second no of fibo:");
 		s=sc.nextInt();
 		
 		System.out.println("enter count of fibonacci:");
