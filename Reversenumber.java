@@ -9,7 +9,7 @@ public class Reversenumber {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      int no,rem=0,no2;
+      int no,rem=0;
       System.out.println("enter the number:");
 		Scanner sc=new Scanner(System.in);
 		no=sc.nextInt();
