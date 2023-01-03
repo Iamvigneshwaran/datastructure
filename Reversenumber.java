@@ -14,7 +14,8 @@ public class Reversenumber {
 		Scanner sc=new Scanner(System.in);
 		no=sc.nextInt();
 	
-		while(no>0){
+		while(no>
+		0){
 		rem=(no%10)+rem*10;
 		
 		no=no/10;
