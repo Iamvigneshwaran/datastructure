@@ -3,9 +3,7 @@ package datastructure;
 import java.util.Scanner;
 public class Decimal_to_binary {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String binary="";
@@ -20,7 +18,7 @@ public class Decimal_to_binary {
 		binary=rem+binary;
 		decimal=decimal/2;
 		}
-		System.out.println("binary number :"+binary);
+		System.out.println("Binary number :"+binary);
 	}
 
 }
